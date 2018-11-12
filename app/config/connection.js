@@ -8,3 +8,12 @@ var connection = mysql.createConnection({
     database: trivia_db
 });
 
+connection.connect(function(err) {
+    if (err) {
+        throw error;
+        return;
+    }
+    console.log("connected as id " + connection.threadId);
+});
+
+module.exports = connection;
