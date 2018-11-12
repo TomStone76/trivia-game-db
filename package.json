@@ -1,0 +1,22 @@
+{
+  "name": "trivia-game-db",
+  "version": "1.0.0",
+  "description": "trivia game database stuff",
+  "main": "question.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomStone76/trivia-game-db.git"
+  },
+  "keywords": [
+    "trivia"
+  ],
+  "author": "tom stone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomStone76/trivia-game-db/issues"
+  },
+  "homepage": "https://github.com/TomStone76/trivia-game-db#readme"
+}
