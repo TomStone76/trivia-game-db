@@ -9,3 +9,4 @@ var Question = sequelize.define("question", {
 Question.sync();
 
 module.exports = Question;
+

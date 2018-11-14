@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/TomStone76/trivia-game-db/issues"
   },
-  "homepage": "https://github.com/TomStone76/trivia-game-db#readme"
+  "homepage": "https://github.com/TomStone76/trivia-game-db#readme",
+  "dependencies": {
+    "sequelize": "^4.41.2"
+  }
 }
